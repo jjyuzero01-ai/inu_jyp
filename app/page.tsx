@@ -1071,7 +1071,7 @@ export default function Home() {
           {/* FOOTER SECTION */}
           <footer className="mt-8 border-t border-slate-200/80 pt-6 pb-2 flex flex-col md:flex-row items-center justify-between gap-4 text-sm shrink-0">
             <div className="font-medium text-slate-400">
-              © 2026 INU Courses Dashboard. Created by <span className="font-bold text-slate-600">정용표</span>.
+              © 2026 INU Courses Dashboard. Created by <span className="font-bold text-slate-600">박주영</span>.
             </div>
             <div className="flex flex-wrap items-center justify-center md:justify-end gap-5 text-slate-500 font-semibold">
               <a href="https://www.inu.ac.kr" target="_blank" rel="noopener noreferrer" className="hover:text-indigo-600 flex items-center gap-1 transition-colors">
